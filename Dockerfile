@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/kubectl:latest
+FROM docker.io/bitnami/kubectl:1.26.10
